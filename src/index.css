@@ -1,0 +1,19 @@
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+code {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+:root {
+	--first-color: #1289A7;
+	--first-color-dark: #1B1464;
+}
